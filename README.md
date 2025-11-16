@@ -78,13 +78,15 @@ Segera lakukan pengecekan!
 ## Dokumentasi
 
 ### **Rangkaian Sistem**
-![Rangkaian Sistem](images/rangkaian.jpg)
+<img width="400" height="281" alt="image" src="https://github.com/user-attachments/assets/37e76dbd-32ac-46fe-a75f-82360f03a956" />
 
-### **Contoh Notifikasi Telegram**
-![Telegram Alert](images/telegram-alert.jpg)
+### **Hasil Rangkaian**
+<img width="611" height="343" alt="image" src="https://github.com/user-attachments/assets/8e37417d-a5cc-48dd-be30-58eff1c2fd6e" />
+<img width="623" height="350" alt="image" src="https://github.com/user-attachments/assets/aec1fb7d-f292-4024-abfa-cf1777632bdb" />
 
-### **Topologi Mesh**
-![Mesh Topology](images/mesh-topology.png)
+### **Notifikasi Telegram**
+<img width="241" height="526" alt="image" src="https://github.com/user-attachments/assets/35074dd4-4773-4d54-9c1b-c5415c4b25ef" />
+<img width="615" height="323" alt="image" src="https://github.com/user-attachments/assets/aaa9fd16-0ae8-4e76-b0a8-e2eac77547ee" />
 
 ---
 
